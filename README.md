@@ -1,28 +1,25 @@
-# Python Temelleri ve Eğlenceli Uygulamalar
 
-Bu proje, Python programlama dilinin temel yapı taşlarını öğretmek amacıyla hazırlanmış çeşitli örnekleri içermektedir. Kullanıcı girdisi alma, listelerle çalışma, rastgele seçimler yapma ve bir sözlük uygulaması gibi konuları kapsamaktadır.
+Python Fundamentals and Fun Applications
+This project includes various examples designed to teach the basic building blocks of the Python programming language. It covers topics such as taking user input, working with lists, making random selections, and implementing a dictionary.
 
-## İçindekiler
-1. Program Çıktısı
-2. Kullanıcıdan Girdi Alma ve Yazdırma
-3. Rastgele Emoji Seçimi
-4. Rastgele Gerçek Programı
-5. Meme Sözlüğü Uygulaması
+Contents
+Program Output
+Receiving User Input and Printing
+Random Emoji Selection
+Random Fact Program
+Meme Dictionary App
+Libraries Used
+random: Used to select a random element from the list.
+How to Use?
+This code can be run in any environment where Python is installed. You can run the project by following the steps below:
 
-## Kullanılan Kütüphaneler
-- `random`: Listeden rastgele bir eleman seçmek için kullanılır.
+Step 1: Install Python
+Download and install the latest version of Python from python.org.
 
-## Nasıl Kullanılır?
-Bu kod, Python'un kurulu olduğu herhangi bir ortamda çalıştırılabilir. Aşağıdaki adımları takip ederek projeyi çalıştırabilirsiniz:
+Step 2: Copy the Project
+Copy or download the project to your own computer.
 
-### Adım 1: Python'u Kurun
-Python'un en güncel sürümünü [python.org](https://www.python.org/downloads/) adresinden indirip kurun.
+Step 3: Run the Code
+Start the project by running the following commands in terminal or command line:
 
-### Adım 2: Projeyi Kopyalayın
-Projeyi kendi bilgisayarınıza kopyalayın veya indirin.
-
-### Adım 3: Kodu Çalıştırın
-Aşağıdaki komutları terminal veya komut satırında çalıştırarak projeyi başlatın:
-
-```bash
-python <dosya_adı>.py
+python <file_name>.py
